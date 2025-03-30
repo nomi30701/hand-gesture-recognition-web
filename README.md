@@ -23,7 +23,7 @@ This browser-based hand gesture recognition application uses MediaPipe to detect
 - 🖼️ Image upload for static detection
 - 🔄 Multiple specialized models to choose from:
     - ✌️ Rock-Paper-Scissors recognition
-    - 👋 Sign language interpretation
+    - 👋 Sign language recognition
     - 👆 General hand gesture detection
 - 🚀 WebGL (GPU) acceleration for faster processing
 - 💻 Wasm (CPU) support for wider device compatibility
@@ -39,10 +39,10 @@ This browser-based hand gesture recognition application uses MediaPipe to detect
 ## 🔧 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hand-detection.git
+git clone https://github.com/nomi30701/sign-language-recognition-web-mediapie.git
 
 # Navigate to project directory
-cd hand-detection
+cd sign-language-recognition-web-mediapie
 
 # Install dependencies
 npm install
